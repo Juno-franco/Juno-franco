@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juno-franco
-- 👀 I’m interested in kotlin, html, css, javascript, python
+- 👀 I’m interested in kotlin, html, css, javascript, python, mysql, networking & server/database
 - 🌱 I’m currently learning javascript & python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
